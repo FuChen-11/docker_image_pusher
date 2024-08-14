@@ -1,1 +1,1 @@
-mysql
+kalilinux/kali-rolling
