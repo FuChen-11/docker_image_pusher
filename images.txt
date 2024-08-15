@@ -1,1 +1,1 @@
-kalilinux/kali-rolling
+lutherlyp/range:sqli-libs-latest
